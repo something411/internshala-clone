@@ -1,6 +1,4 @@
 # Internshala clone
 
-Internshala clone mobile app
-
-Has Google and Email Sign In Authentication from Firebase.
-Displays static data.
+- Has Google and Email Sign In Authentication from Firebase.
+- Displays static data.
